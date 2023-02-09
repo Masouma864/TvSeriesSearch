@@ -1,9 +1,9 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 
-class TvSeries extends Component {
+class TvSeries  = () => {
     state = {}
-    render() {
+   
         return (
 
             <div className="tv-series-container">
@@ -35,6 +35,6 @@ class TvSeries extends Component {
             </div>
         );
     }
-}
+
 
 export default TvSeries;
