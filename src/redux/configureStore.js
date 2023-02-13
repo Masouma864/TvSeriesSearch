@@ -5,7 +5,7 @@ import detailReducer from './TvSeries/tvSeriesSlice';
 const store = configureStore({
   reducer: {
     list: listReducer,
-    series: detailReducer,
+    detail: detailReducer,
   },
 });
 export default store;
