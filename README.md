@@ -54,7 +54,7 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-- [Tv Series Search][Live Demo](\/)
+- [Tv Series Search][Live Demo](https://dynamic-brioche-f62264.netlify.app/)
 
 
 
