@@ -7,20 +7,20 @@
   }
   
   .info {
-    width: 100%;
+    width: 90%;
     display: flex;
     justify-content: center;
-    gap: 30px;
+    gap: 10px;
     align-items: center;
-    padding: 10px 30px;
+    padding: 10px 20px;
     box-sizing: border-box;
     margin-bottom: 20px;
   }
   
   .info img {
     border-radius: 5%;
-    height: 250px;
-    width: 200px;
+    height: 300px;
+    width: 250px;
   }
   .link p{
     color:white;
@@ -40,11 +40,8 @@
   
 
   
-  .detail-col {
-    
-    width: 100%;
-   
-    padding: 25px;
+  .detail-col { 
+    width: 90%;
   }
   
 
@@ -60,10 +57,14 @@
     display: flex;
     flex-direction: row;
     margin: 10px;
-    padding-right: 20px;
+    padding: 50px;
   }
 
   .genres{
+    text-align: left;
+  }
+  .name-detail{
+    font-size: 33px;
     text-align: left;
   }
   

@@ -21,7 +21,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 crypto-metric-app <a name="about-project"></a>
+# 📖Tv Series Search <a name="about-project"></a>
 
 **Tv Series Search** is a  web application is used to check a list of tv sereis  that will be created by making use of React and Redux and Data from the  API.
 
@@ -77,8 +77,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-- `https://github.com/Masouma864/crypto-metric-app.git` if your're using https or git 
-- `git@github.com:Masouma864/crypto-metric-app.git` if you prefer ssh and hit enter.
+- `https://github.com/Masouma864/TvSeriesSearch` 
 - create a directory in your preferred location (e.g in the Desktop or Document directory)
 
 
@@ -125,21 +124,13 @@ To run tests, run the following command:
 
 > Description of the new features for the project.
 
-- [ ] **I will design a logo that will be put in the nav bar and remove the current block of text that I have as my logo**
-- [ ] **I intend to add additional pages in the website ie. a Reference page & a Categories page**
+- [ ] **I will design a logo that will be put in the nav bar **
+- [ ] **I intend to add additional pages in the website**
 - [ ] **Lastly, I implement some UX improvements: include transitions and/or animations I might add more features as I move forward**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
 
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 

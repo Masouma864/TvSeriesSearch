@@ -23,7 +23,7 @@ const TvSeries = () => {
         </div>
         <div className="more-info">
           <div className="detail-col">
-            <p className="name">
+            <p className="name-detail">
               {detail.name}
             </p>
             <p className="genres">
