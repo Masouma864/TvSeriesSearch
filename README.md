@@ -54,7 +54,7 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-- [Tv Series Search][Live Demo](https://moneyster.netlify.app/)
+- [Tv Series Search][Live Demo](\/)
 
 
 
